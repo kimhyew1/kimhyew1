@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kimhyew1
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python & ML
+- 💞️ I’m looking to collaborate on Kaggle
 - 📫 How to reach me kimhw4126@gmail.com
 
 <!---
