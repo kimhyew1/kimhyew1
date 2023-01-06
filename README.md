@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kimhyew1
 - 👀 I’m interested in Data science
 - 💞️ I'm majoring in Department of DataScience at Sungshin Women's University
-- 🌱 I’m currently learning Python & ML
+- 🌱 I’m currently learning Python & DL
 - 📫 How to reach me kimhw4126@gmail.com
 
 <!---
